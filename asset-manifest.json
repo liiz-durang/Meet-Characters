@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Meet-Characters/static/css/main.d44a1ec1.css",
+    "main.js": "/Meet-Characters/static/js/main.53fc2092.js",
+    "static/js/787.5b5dfee8.chunk.js": "/Meet-Characters/static/js/787.5b5dfee8.chunk.js",
+    "index.html": "/Meet-Characters/index.html",
+    "main.d44a1ec1.css.map": "/Meet-Characters/static/css/main.d44a1ec1.css.map",
+    "main.53fc2092.js.map": "/Meet-Characters/static/js/main.53fc2092.js.map",
+    "787.5b5dfee8.chunk.js.map": "/Meet-Characters/static/js/787.5b5dfee8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d44a1ec1.css",
+    "static/js/main.53fc2092.js"
+  ]
+}
